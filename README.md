@@ -33,3 +33,5 @@ How to use the v2.x version of Catch2 library as a submodule for this project:
 5. cd .. 
 6. git add Catch2
 7. git commit -m "Added Catch2 submodule locked to v2.x branch"
+
+但是我发现这种方式不是很靠谱,经常因为网络原因只可以加载主模块,但是不可以加载子模块.
