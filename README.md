@@ -13,7 +13,7 @@ According to Catch2 official website `https://github.com/catchorg/Catch2`, write
 
 你在克隆本项目时,除了要执行`git clone git@github.com:1AoB/Catch2_model.git`,
 
-你还需要执行` git submodule update --init --recursive`来初始化子模块Catch2的v2.x版本.
+你还需要执行`cd Catch2_model/ && git submodule update --init --recursive`来初始化子模块Catch2的v2.x版本.
 
 # Excellent Git training opportunity!
 
