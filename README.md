@@ -3,8 +3,6 @@ According to Catch2 official website `https://github.com/catchorg/Catch2`, write
 
 # 版本选择
 
-
-
 ![image-20241216165611233](./assets/image-20241216165611233.png)
 
 根据版本推荐,我们使用Catch2的v2.x版本
@@ -19,6 +17,8 @@ cd Catch2_model/
 git submodule update --init --recursive
 来初始化子模块Catch2的v2.x版本.
 ```
+
+（库中的Catch2库就是我从官方的v2.x版本自编译）
 
 # Excellent Git training opportunity!
 
@@ -40,6 +40,7 @@ How to use the v2.x version of Catch2 library as a submodule for this project:
 
 # 想让catch2运行起来需要配置：
 
-1.添加头文件
+1.添加头文件 ../../Catch2/include
 
-2.添加宏定义
+2.添加宏定义 CATCH_CONFIG_MAIN
+
