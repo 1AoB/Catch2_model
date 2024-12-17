@@ -38,7 +38,7 @@ How to use the v2.x version of Catch2 library as a submodule for this project:
 
 
 
-想让catch2运行起来需要配置：
+# 想让catch2运行起来需要配置：
 
 1.添加头文件
 
