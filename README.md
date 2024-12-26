@@ -18,7 +18,7 @@ git submodule update --init --recursive
 来初始化子模块Catch2的v2.x版本.
 ```
 
-（库中的Catch2库就是我从官方的v2.x版本自编译）
+（库中的Catch2库 就是 我从官方的v2.x版本自编译的库）
 
 # Excellent Git training opportunity!
 
